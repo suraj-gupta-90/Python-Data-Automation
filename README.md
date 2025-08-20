@@ -1,4 +1,4 @@
-# python-data-automation
+# Python-Data-Automation
 Automates data collection, cleaning, and reporting using Python. Simplifies repetitive tasks and accelerates workflow efficiency across projects.
 # 🐍 Python Data Analysis & Automation
 
